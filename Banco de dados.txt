@@ -1,27 +1,3 @@
-aplicativo para fazer checlist de maquinas 
-
-https://www.youtube.com/watch?v=qPYCnebQQ6U
-
-https://www.youtube.com/watch?v=SRUuQnwrC1U
-menu lateral
-
-https://www.youtube.com/watch?v=gRIWFYRaVto
-novasideias
- 
-
-
-guithub 
-
-senha
-263819263819joao
-
-senha MYSQL 
-263819 root 
-
-
- quetao sete 7 
-select distinct first_name from psdb.employees;
-
 
 questao 1 
 
